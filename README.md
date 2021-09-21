@@ -23,14 +23,14 @@ REDUCE THE NUMEBER OF MICROBITS
 ![Transmitter and Reciever](https://user-images.githubusercontent.com/91016931/134230465-1edfbc18-ac79-4200-abe5-e9f22e0dd236.png)
 
 # Body explanation
--"konec loading" = devides the whole process to parts, so you can use the buttons for more than one thing
--"seznam" = possibe numbers of the microbits
--"n" = position of the microbit
--"abeceda" = all of the letters of alphabet
--"od shora dolu" = animation from the top to the bottom
--"ze zdola nahoru" = animation from the bottom to the top
--"ulož" = set the current letter
--"ulož2" = saves all chosen "ulož" *unites all "ulož"*
+- "konec loading" = devides the whole process to parts, so you can use the buttons for more than one thing
+- "seznam" = possibe numbers of the microbits
+- "n" = position of the microbit
+- "abeceda" = all of the letters of alphabet
+- "od shora dolu" = animation from the top to the bottom
+- "ze zdola nahoru" = animation from the bottom to the top
+- "ulož" = set the current letter
+- "ulož2" = saves all chosen "ulož" *unites all "ulož"*
 ...
 *other thing are easy to understand*
 
