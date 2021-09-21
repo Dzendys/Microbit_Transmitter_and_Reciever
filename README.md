@@ -16,11 +16,11 @@ ADD MORE MICROBITS
 4. In the block, which controls the button B: *in the second block/condition*
 - change *if KONEC LOADING=0 and N=4* to *if KONEC LOADING=0 and N=5*
 
-REDUCE NUMEBER OF MICROBITS
+REDUCE THE NUMEBER OF MICROBITS
 *You don't have to change anything - it will work as well but I don't think, you can create such an original word only with 3 letters*
 
 # Screenshot of all
-![microbit-snímek obrazovky](https://user-images.githubusercontent.com/91016931/134223513-403d6583-ae99-4717-bf75-ed7711096111.png)
+![Transmitter and Reciever](https://user-images.githubusercontent.com/91016931/134230465-1edfbc18-ac79-4200-abe5-e9f22e0dd236.png)
 
 # Body explanation
 "konec loading" = devides the whole process to parts, so you can use the buttons for more than one thing
@@ -35,6 +35,9 @@ REDUCE NUMEBER OF MICROBITS
 *other thing are easy to understand*
 
 # Screenshot of parts
-1. Animations
-![microbit-snímek obrazovky](https://user-images.githubusercontent.com/91016931/133942131-9b668965-94d9-45bb-92e8-a644361b4ea9.png)
-2. 
+1. Animations (animace)
+![Animace](https://user-images.githubusercontent.com/91016931/134230492-fa6a783b-3fcc-46ce-852a-111de7935c9e.png)
+2. Transmitter (vysílač)
+![Transmitter](https://user-images.githubusercontent.com/91016931/134230510-1cebcbb2-2120-4dbd-93a8-85fe3d1d7f59.png)
+3. Reciever (příjmač)
+![Reciever](https://user-images.githubusercontent.com/91016931/134230526-4ace3512-925c-4f89-b643-b730811b2ced.png)
